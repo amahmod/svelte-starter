@@ -2,7 +2,14 @@
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
-## Technical considerations
+### Features
+
+- Type intellisense with TypeScript
+- Code linting with Eslint
+- Code formatting with Prettier
+- Automatic code linting and formatting git staged files
+
+### Technical considerations
 
 **Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
 
